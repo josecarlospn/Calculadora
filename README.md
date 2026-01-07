@@ -2,10 +2,10 @@
 Para exercutar o arquivo .sh voce necessita usar o comando ./Minha_calculadora.sh para executar o script no terminal."
 
 ## Funções da calculadora em python:
- -Adição
- -Subtração
- -Multiplicação
- -Divisão
+ - Adição
+ - Subtração
+ - Multiplicação
+ - Divisão
 
 ## Como Ultilizar:
 
