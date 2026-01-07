@@ -1,5 +1,5 @@
 ## Vamos começar a ultilizar nossa calculadora
-Para exercutar o arquivo .sh voce necessita usar o comando ./Minha_calculadora.sh para executar o script no terminal."
+ - Para exercutar o arquivo .sh voce necessita usar o comando ./Minha_calculadora.sh para executar o script no terminal."
 
 ## Funções da calculadora em python:
  - Adição
